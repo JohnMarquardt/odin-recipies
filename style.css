@@ -1,0 +1,18 @@
+html {
+    font-family: "Times New Roman", "Helvetica", sans-serif;
+    background-color: rgb(127, 127, 253);
+}
+
+.food-images {
+    height: auto;
+    width: 600px;
+}
+
+.ingredients {
+    color: white;
+}
+
+h1 {
+    color: white;
+    font-size: 32px;
+}
